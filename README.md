@@ -14,6 +14,7 @@
 
 <br>
 <br>
+
 -----
 
 ### What is a Stroop Effect?
@@ -49,8 +50,10 @@ This project is focused on statistics, including designing an experiment and tes
 -----
 
 ### This project will review the basic concepts of statistics, including:
- -1 How to identify components of an experiment.
- -2 How to use descriptive statistics to describe qualities of a sample.
- -3 How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results.
- 
+<ol>
+ <li>How to identify components of an experiment.</li>
+ <li>How to use descriptive statistics to describe qualities of a sample.</li>
+ <li>How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results.</li>
+</ol> 
+
 -----
