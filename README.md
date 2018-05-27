@@ -17,7 +17,7 @@
     - [Results](#results)
 
 ----
-### What is a Stroop Effect?
+### What is a Stroop Effect
 
 The Stroop effect is a phenomenon that occurs when you must say the color of a word but not the name of the word. For example, blue might be printed in red and you must say the color rather than the word. For more in detail, Visit [Wikipedia](https://en.wikipedia.org/wiki/Stroop_effect)
 
