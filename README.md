@@ -1,22 +1,22 @@
-# Stroop Effect
+# My Second Project in Machine Learning Basics Nanodegree
+# Descriptive Statistics
+## Project: Test a Perceptual Phenomenon (Stroop Effect)
 
-<br>
-<br>
-
-## My second project of Machine Learning Foundation Nanodegree. A part of Data Analyst Nanodegree program.
-
-<br>
-<br>
-
-<p align = 'center'>
-    <img src= 'https://camo.githubusercontent.com/1f2b00dad71fad0d737a1c55daee37fed28f2b6c/68747470733a2f2f732d6d656469612d63616368652d616b302e70696e696d672e636f6d2f6f726967696e616c732f35652f62302f32382f35656230323837626538636563623134396434356234646230326434626231352e706e67' width = '450' height = '350' alt = 'Stroop Effect'>
-</p>
-
-<br>
-<br>
+<p align = 'center'><img src = 'stroop_logo.jpg', height=412, width =412></p>
 
 -----
 
+### Table Of Contents:
+- [What is Stroop Effect](#what-is-stroop-effect)
+- [Backgorund Information](#backgorund-information)
+- [Data for investigation](#data-for-investigation)
+- [Why this project](#why-this-project)
+- [Conclusion](#conclusion)<br>
+    - [What I learned](#what-i-learned)<br>
+    - [Evaluation](#evaluation)
+    - [Results](#results)
+
+----
 ### What is a Stroop Effect?
 
 The Stroop effect is a phenomenon that occurs when you must say the color of a word but not the name of the word. For example, blue might be printed in red and you must say the color rather than the word. For more in detail, Visit [Wikipedia](https://en.wikipedia.org/wiki/Stroop_effect)
@@ -41,7 +41,7 @@ The qusetions and results of this data are performed in `Statistical_Analysis_SE
 
 -----
 
-### Why this project and what is its importance?
+### Why this project
 
 Statistics is a major component of data analysis, it allows you to investigate data and make inferences based on your observations. A foundation in statistics also allows you to be a consumer of analyses that others perform, and allows you to relate to the conclusions others have drawn from their investigations.
 
@@ -49,11 +49,20 @@ This project is focused on statistics, including designing an experiment and tes
 
 -----
 
-### This project will review the basic concepts of statistics, including:
-<ol>
- <li>How to identify components of an experiment.</li>
- <li>How to use descriptive statistics to describe qualities of a sample.</li>
- <li>How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results.</li>
-</ol> 
+### Conclusion
+
+#### What I learned:
+
+- How to identify components of an experiment.
+- How to use descriptive statistics to describe qualities of a sample.
+- How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results.
+ 
+
+#### Evaluation
+
+My project was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/projects/4582204201/rubric" target="_blank">Descriptive Statistics project rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
+
+#### Results
+[My Project Review by an Udacity Reviewer](https://review.udacity.com/#!/reviews/958481)
 
 -----
