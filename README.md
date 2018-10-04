@@ -2,7 +2,7 @@
 # Descriptive Statistics
 ## Project: Test a Perceptual Phenomenon (Stroop Effect)
 
-<p align = 'center'><img src = 'stroop_logo.png', height=412, width =412></p>
+<p align = 'center'><img src = 'logo.png', height=412, width =412></p>
 
 -----
 
