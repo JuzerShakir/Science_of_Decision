@@ -37,7 +37,7 @@ You can try out Stroop task for yourself [here](https://faculty.washington.edu/c
 
 `data.csv` file in this repository contains the data that we have to work with. This dataset contains results from a number of participants in the task. Each row of the dataset contains the performance for one participant, with the first number their results on the congruent task and the second number their performance on the incongruent task. 
 
-The qusetions and results of this data are performed in `Statistical_Analysis_SE.pdf` file.
+The qusetions and results of this data are performed in `report.pdf` file.
 
 -----
 
